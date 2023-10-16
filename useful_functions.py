@@ -216,7 +216,7 @@ def make_2dplot(data_files, idx1, idx2, labels, x_label, y_label, columns):
 
 def clustering_plot(data, cluster_model, predictions, x_label, y_label):
     """
-    Create a clustering plot.
+    Create a clustering plot. Can be uses with KMeans from scikit-learn library.
 
     Args:
         data (numpy.ndarray): Data points with shape (n_samples, n_features).
