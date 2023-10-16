@@ -1,6 +1,4 @@
 # Projects
-Project Portfolio
-License
 
 This repository contains a collection of projects that demonstrate my skills in Python programming, particularly in the fields of machine learning and mathematics.
 
