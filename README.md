@@ -2,7 +2,7 @@
 
 This repository contains a collection of projects that demonstrate my skills in Python programming, particularly in the fields of machine learning and mathematics.
 
-## Table of Contents
+## Setup Table of Contents
 
 Machine Learning Projects
 
@@ -18,12 +18,12 @@ Finite Difference Analysis: Contains files which solve problems like the 1D wave
 This folder also contains general implementations of 1D heat conduction equation, or an implementaion of golden section search and a general file (math_functions.py) with some easy implementations of mathematical functions. 
 
 
-## Getting Started
+## Setup Getting Started
 
 You can download any of the files that you like. You can open them, change them and do whatever you want with them. Most of them either provide examples of how to use inside the file or can be used as a standalone file. 
 You can also copy and paste functions that you find useful for your projects. 
 One of the most useful files here is the useful_functions.py which contains multiple definitions for plotting functions in python. I have used all of them over the years, multiple times. You can copy and paste the functions, or use the whole file as is but most of the time your plots are going to require small changes to make them as you'd like. 
 
 
-## License
+## Setup License
 This project is licensed under the terms of the GNU General Public License v3.0.
