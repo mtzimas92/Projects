@@ -4,14 +4,14 @@ This repository contains a collection of projects that demonstrate my skills in 
 
 ## Table of Contents
 
-Machine Learning Projects
+- Machine Learning Projects
 
 Project 1: General PCA functions for a standard data set (general_pca.py). The functions can be used freely with different datasets. Most of these functions were used in my Master's Thesis.
 
 Project 2: Prediction of Flutter using NASTRAN generated data. This project is comprised of two .py files (nastran_flutter_feature_extraction.py and simple_nn_flutter.py). The first processes the .f06 file outputted from NASTRAN and creates three files: features.txt, labels.txt and binary_labels.txt. It is a very focused code that will only work for flutter data. If you have other .f06 files you would have to identify the common patterns in the file so you could make some easy substitutions.
 The second file is my main implementation for the prediction of the dataset which was generated above. It is a Deep Neural Network with Tensorflow. It contains functions for loading/preprocessing the data, and creating/evaluating the DNN. These algorithms were the basis of my PhD.
 
-Python for Math
+- Python for Math
 Various implementations using Python of Math problems over the years. 
 Finite Difference Analysis: Contains files which solve problems like the 1D wave parabolic PDE equation. 
 
